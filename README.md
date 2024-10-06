@@ -10,7 +10,7 @@ This project is a Simple Product CRUD Application built with Laravel 11. The app
 
 ##### Visual Overview:
 
-
+https://github.com/user-attachments/assets/e9d48221-0de8-45a4-ac92-3c4e2a232f0f
 
 
 ----------
@@ -23,11 +23,11 @@ Please check the official laravel installation guide for server requirements bef
 
 Clone the repository
 
-    git clone https://github.com/IrfanChowdhury13/carrental-app.git
+    git clone https://github.com/IrfanChowdhury13/crud-app.git
 
 Switch to the repo folder
 
-    cd carrental-app
+    cd crud-app
 
 Install all the dependencies using composer
 
@@ -54,8 +54,8 @@ You can now access the server at http://localhost:8000
 
 **TL;DR command list**
 
-    git clone https://github.com/IrfanChowdhury13/carrental-app.git
-    cd carrental-app
+    git clone https://github.com/IrfanChowdhury13/crud-app.git
+    cd crud-app
     composer install
     cp .env.example .env
     php artisan key:generate
